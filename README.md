@@ -1,6 +1,6 @@
-# Data Structures and Algorithms with the C++ STL
+# 计算机算法设计与分析
 
-<a href="https://www.packtpub.com/product/data-structures-and-algorithms-with-the-c-stl/9781835468555"><img src="https://m.media-amazon.com/images/I/71CBlBULEDL._SL1500_.jpg" alt="" height="256px" align="right"></a>
+![封面](C:\Users\MAC\Downloads\2024美国\十四五规划\封面.png)
 
 This is the code repository for [Data Structures and Algorithms with the C++ STL](https://www.packtpub.com/product/data-structures-and-algorithms-with-the-c-stl/9781835468555?utm_source=github&utm_medium=repository&utm_campaign=9781835468555), published by Packt.
 
