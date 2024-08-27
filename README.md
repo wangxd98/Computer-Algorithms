@@ -2,7 +2,7 @@
 
 ![封面](C:\Users\MAC\Downloads\2024美国\十四五规划\封面.png)
 
-This is the code repository for [Data Structures and Algorithms with the C++ STL](https://www.packtpub.com/product/data-structures-and-algorithms-with-the-c-stl/9781835468555?utm_source=github&utm_medium=repository&utm_campaign=9781835468555), published by Packt.
+This is the code repository for 计算机算法设计与分析
 
 **A guide for modern C++ practitioners**
 
