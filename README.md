@@ -1,14 +1,12 @@
 # 计算机算法设计与分析
 
-封面
-
-
-
-
+![封面](https://github.com/wangxd70/Data-Structures-and-Algorithms/blob/main/image/%E5%B0%81%E9%9D%A2.png?raw=true)
 
 
 
 This is the code repository for  [The Design and Analysis of Computer Algorithms](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Publishing House of Electronics Industry.
+
+
 
 **A guide for modern C++ practitioners**
 
