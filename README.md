@@ -8,7 +8,7 @@
 
 
 
-This is the code repository for  [计算机算法设计与分析](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699) (https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Packt.
+This is the code repository for  [计算机算法设计与分析](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Packt.
 
 **A guide for modern C++ practitioners**
 
