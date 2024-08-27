@@ -48,8 +48,7 @@ With the following software and hardware list you can run all code files present
 | 1-22 | C++ | Windows, Mac OS X, and Linux (Any) |
 | 1-22 | C++ STL | Windows, Mac OS X, and Linux (Any) |
 
-### Related products
-* Hands-On Design Patterns with C++ Second Edition [[Packt]](https://www.packtpub.com/product/hands-on-design-patterns-with-c-second-edition/9781804611555?utm_source=github&utm_medium=repository&utm_campaign=9781804611555) [[Amazon]](https://www.amazon.com/dp/1804611557)
+
 
 * C++20 STL Cookbook [[Packt]](https://www.packtpub.com/product/c20-stl-cookbook/9781803248714?utm_source=github&utm_medium=repository&utm_campaign=9781803248714) [[Amazon]](https://www.amazon.com/dp/1803248718)
 
