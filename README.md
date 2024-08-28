@@ -30,6 +30,7 @@ The knowledge and application of computer algorithms have a wide range of discip
 ★ Understandability: 
 
 Use easy to understand language and concise examples to explain the theoretical basis, basic concepts, relevant mathematical knowledge, and general algorithms used in program design to solve practical problems of computer algorithms.
+
 ★ Practicality: 
 
 Based on the theoretical foundation of computer algorithm knowledge, this article elaborates on a series of classic algorithms that are widely used in practice, and combines examples to introduce the implementation and application techniques of algorithms in program design using C++language, so that readers can comprehensively grasp the core knowledge and application technology of computer algorithms from both theoretical and practical levels.
