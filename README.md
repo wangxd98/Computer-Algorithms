@@ -6,56 +6,28 @@
 
 This is the code repository for  [The Design and Analysis of Computer Algorithms](https://www.phei.com.cn/module/goods/wssd_content.jsp?bookid=52699), published by Publishing House of Electronics Industry.
 
-
-
-**A guide for modern C++ practitioners**
-
 ## What is this book about?
-While the Standard Template Library (STL) offers a rich set of tools for data structures and algorithms, navigating its intricacies can be daunting for intermediate C++ developers without expert guidance. This book offers a thorough exploration of the STL’s components, covering fundamental data structures, advanced algorithms, and concurrency features.
-
 This book covers the following exciting features:
-* Streamline data handling using the std::vector
-* Master advanced usage of STL iterators
-* Optimize memory in STL containers
-* Implement custom STL allocators
-* Apply sorting and searching with STL algorithms
-* Craft STL-compatible custom types
-* Manage concurrency and ensure thread safety in STL
-* Harness the power of parallel algorithms in STL
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1835468551) today!
+★ Systematic: Explain the theoretical basis, implementation, and specific application techniques of algorithms from three aspects: theory,abstraction,and design. While discussing the core knowledge of algorithms, stimulate and enhance readers' computational thinking abilities. Using algorithm design strategies as the knowledge unit, systematically introduce the design methods and analysis techniques of computer algorithms, providing a broad and solid foundation of computer algorithm knowledge for computer and programming enthusiasts.
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
-alt="https://www.packtpub.com/" border="5" /></a>
+- Chapter 1 Algorithm Overviewr
+- Chapter 2 Divide-and-Conquer Algorithms
+- Chapter 3: Dynamic Programming
+- Chapter 4 Greedy Algorithms
+- Chapter 5 Backtracking Algorithms
+- Chapter 6: Branch and Bound Algorithms
+- Chapter 7 Randomized Algorithms
+- Chapter 8 Linear Programming and Network Flow
+- Chapter 9: Algorithms for Strings and Sequences
 
-## Instructions and Navigations
-All of the code is organized into folders. 
+★ Popularity: The knowledge and application of computer algorithms have a wide range of disciplines, strong inclusiveness, and huge demand space for application, and have become one of the most important core competencies recognized internationally. The content presented in this book covers the foundation of human computer algorithm knowledge and has become the core content for assessing the level and skills of IT professionals in many industries.
 
-The code will look like the following:
-```
-template <typename T,
- typename AllocatorPolicy = std::allocator<T>>
-class CustomVector {
- // Implementation using AllocatorPolicy for memory
- // allocation
-};
-```
+★ Understandability: Use easy to understand language and concise examples to explain the theoretical basis, basic concepts, relevant mathematical knowledge, and general algorithms used in program design to solve practical problems of computer algorithms.
+★ Practicality: Based on the theoretical foundation of computer algorithm knowledge, this article elaborates on a series of classic algorithms that are widely used in practice, and combines examples to introduce the implementation and application techniques of algorithms in program design using C++language, so that readers can comprehensively grasp the core knowledge and application technology of computer algorithms from both theoretical and practical levels.
 
-**Following is what you need for this book:**
-This book is for intermediate-level C++ developers looking to enhance their software development skills. Familiarity with basic C++ syntax and object-oriented programming (OOP) as well as some exposure to data structures and algorithms is assumed.
-Tailored to software engineers, computer science students, and hobbyist programmers, this book delves into C++ STL for practical application, performance enhancement, and efficient coding practices.
-
-With the following software and hardware list you can run all code files present in the book (Chapter 1-22).
-### Software and Hardware List
-| Chapter | Software required | OS required |
-| -------- | ------------------------------------ | ----------------------------------- |
-| 1-22 | C++ | Windows, Mac OS X, and Linux (Any) |
-| 1-22 | C++ STL | Windows, Mac OS X, and Linux (Any) |
-
-### Related products
-* Hands-On Design Patterns with C++ Second Edition [[Packt]](https://www.packtpub.com/product/hands-on-design-patterns-with-c-second-edition/9781804611555?utm_source=github&utm_medium=repository&utm_campaign=9781804611555) [[Amazon]](https://www.amazon.com/dp/1804611557)
-
-* C++20 STL Cookbook [[Packt]](https://www.packtpub.com/product/c20-stl-cookbook/9781803248714?utm_source=github&utm_medium=repository&utm_campaign=9781803248714) [[Amazon]](https://www.amazon.com/dp/1803248718)
-
-
-
+## Anticipated new contributions
+★ Comprehensive online teaching platform
+★ New online automatic evaluation
+★ All open-source course source code
+★ Complete online question bank
