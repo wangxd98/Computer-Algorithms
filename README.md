@@ -23,7 +23,9 @@ Explain the theoretical basis, implementation, and specific application techniqu
 - Chapter 8 Linear Programming and Network Flow
 - Chapter 9: Algorithms for Strings and Sequences
 
-★ Popularity: The knowledge and application of computer algorithms have a wide range of disciplines, strong inclusiveness, and huge demand space for application, and have become one of the most important core competencies recognized internationally. The content presented in this book covers the foundation of human computer algorithm knowledge and has become the core content for assessing the level and skills of IT professionals in many industries.
+★ Popularity: 
+
+The knowledge and application of computer algorithms have a wide range of disciplines, strong inclusiveness, and huge demand space for application, and have become one of the most important core competencies recognized internationally. The content presented in this book covers the foundation of human computer algorithm knowledge and has become the core content for assessing the level and skills of IT professionals in many industries.
 
 ★ Understandability: 
 
