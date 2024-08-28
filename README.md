@@ -28,6 +28,9 @@ This book covers the following exciting features:
 
 ## Anticipated new contributions
 ★ Comprehensive online teaching platform
+
 ★ New online automatic evaluation
+
 ★ All open-source course source code
+
 ★ Complete online question bank
