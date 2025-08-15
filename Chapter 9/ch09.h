@@ -111,7 +111,7 @@ class Aho
         int idx[idsize]; 
         tnode nmap[nsize+1];// 防内存泄漏自建结点池 
         
-        void idx()
+        void idex()
         {// 预先计算idx Code9
             for(int i=0;i<dsize;++i)idx['a'+i]=i;
         }
@@ -126,7 +126,7 @@ class Aho
         
         void init()
         {
-            idx();
+            idex();
             memset(nmap,0,sizeof(nmap));
             root=NULL;size=0;root=newnode();
         }
